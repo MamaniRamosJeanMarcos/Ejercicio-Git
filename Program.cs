@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Menu de metodos");
         }
 
         static double Suma(double num1, double num2)
