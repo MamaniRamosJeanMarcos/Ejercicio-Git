@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Menu de metodos");
+            Console.WriteLine("Ponemos un bucle");
         }
 
         static double Suma(double num1, double num2)
